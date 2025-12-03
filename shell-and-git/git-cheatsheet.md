@@ -48,3 +48,21 @@
 <h2>Einen Ordner/Datei löschen</h2><br>
 <br>
 > rm -rf + dateiname
+</p>
+
+<h2> Branches </h2>
+<br>
+<p>
+<strong>merge</strong> bedeutet einen <em>Feature-Branch</em> in den <em>main-Branch</em> einzufügen 
+<br>
+> git switch -c <em>branchname</em> = Einen neuen Branch erstellen & direkt zu ihm wechseln <br>
+> git switch <em>branchname</em>    = zwischen Branches wechseln <br>
+> git branch                        = lokales Branch anzeigen <br>
+> git branch -a                     = alle Branches anzeigen (lokal+remote) <br>
+> git branch -d <em>branchname</em> = einen Branch löschen <br>
+</p>
+
+<h2>Pull Request <em>PR</em></h2>
+<br>
+<p>PR können wir nutzen um Reviews für die Arbeit in einem Feature-Branch anzufordern.<br>
+Ist eine Anfrage, einen Branch in einen anderen Branch zu mergen. Andere Entwickler überprüfen den PR und schlagen Änderungen vor. <br></p>
