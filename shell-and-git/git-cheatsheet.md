@@ -7,13 +7,10 @@
 > cd <br>
 > cd .. <br>
 > cd ordnername <br>
-<br>
 > ls -la (versteckte Datei mit anzeigen lassen) <br>
-
 > mv + datei/ordner name + zielort <br>
 > touch <br>
-> mkdir <br> > <br>
-
+> mkdir <br>
 </p>
 <p>
 <h2>Git Basic-Befehle</h2> <br>
