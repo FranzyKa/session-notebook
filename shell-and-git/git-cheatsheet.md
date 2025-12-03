@@ -1,8 +1,9 @@
 <Git Cheatsheet>
 
-_Basic-Befehle_
+<h2>Basic-Befehle</h2>
 
-<p>ls <br>
+<p>
+> ls <br>
 > cd <br>
 > cd .. <br>
 > cd ordnername <br>
@@ -11,19 +12,18 @@ _Basic-Befehle_
 
 > mv + datei/ordner name + zielort <br>
 > touch <br>
-> mkdir <br>
-> <br>
+> mkdir <br> > <br>
 
 </p>
 <p>
-*Git Basic-Befehle* <br>
+<h2>Git Basic-Befehle</h2> <br>
 <br>
 > git status <br>
 > git log<br>
 <br>
 </p>
 <p>
-*Befehle, um ein neues Repository zu erstellen*<br>
+<h2>Befehle, um ein neues Repository zu erstellen</h2><br>
 <br>
 > git init <br>
 > git add + dateiname <br>
