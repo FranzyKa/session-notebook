@@ -6,7 +6,7 @@
 CSS „kaskadiert“ also die Regeln — ähnlich wie Wasser, das über mehrere Ebenen fließt, bis es unten ankommt.
 </p>
 <br>
-<p><strong>Warum also Kaskadierung</strong>
+<p class="highlight"><strong>Warum also Kaskadierung</strong>
 Weil CSS alle Regeln wie eine Kaskade von oben nach unten auswertet und am Ende entscheidet:<br>
 Welche Regel ist am spezifischsten, steht zuletzt und passt am besten?<br>
 
