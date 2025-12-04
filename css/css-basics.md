@@ -42,7 +42,8 @@ Beispiel (von schwach -> stark):
 </ul>
 <br>
 <p>Wenn ein Kindelement keinen eigenen Wert hat, übernimmt es den Wert des Elternteils.</p>
-
+<br>
+<h2>Was macht CSS</h2>
 <p>CSS-Regeln werden auf ein HTML-Element angewendet und legen fest, <br>
 wie der Inhalt angezeigt werden soll.<br>
 Dabei besteht eine CSS Regel aus zwei Teilen:
