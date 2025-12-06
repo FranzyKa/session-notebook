@@ -1,3 +1,5 @@
+
+/* Element Selektor */
 p {
     background-color: wheat;
 }
@@ -6,3 +8,24 @@ a {
     text-decoration: none;
     color: purple
 }
+
+/* Klassen Selektor */
+
+.highlight {
+    color: palegreen;
+    font-weight: bold;
+}
+
+/* Pseudo Selektor */
+
+button:hover {
+    background-color:antiquewhite;
+}
+
+section:hover {
+    background-color: black;
+}
+
+/* ID Selektor */
+
+#

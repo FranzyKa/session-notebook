@@ -22,7 +22,9 @@ So kann man viele Styles definieren, ohne dass sie sich gegenseitig vollständig
 <br>
 <h4>Spezifität</h4>
 <p>Je genauer der Selektor ist, desto wichtiger ist seine Regel.<br>
-Beispiel (von schwach -> stark):
+Entscheidet darüber, welche CSS Regel am Ende gewinnt,  <br>
+wenn Regeln auf das gleiche Element zutreffen. <br>
+Beispiel (von schwach -> stark):<br>
 <ul>
     <li>p (Typselektor)</li>
     <li>.info (Klassenselektro)</li>
